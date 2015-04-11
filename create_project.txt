@@ -1,0 +1,1 @@
+android create project -n SCDialer -t 14 -p ./scdialer -k com.ktrjack.scdialer -a ScDialer
